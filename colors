@@ -1,0 +1,18 @@
+#!/bin/sh
+
+esc=""
+blackf="${esc}[30m"
+redf="${esc}[31m"
+greenf="${esc}[32m"
+yellowf="${esc}[33m"
+whitef="${esc}[37m"
+boldon="${esc}[1m"
+boldoff="${esc}[22m"
+reset="${esc}[0m"
+
+echo ${redf}"Red"${reset}
+
+
+
+
+
