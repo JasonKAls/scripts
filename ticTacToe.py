@@ -1,4 +1,4 @@
-# Let's play Tic Tac Toe! #
+## Let's play Tic Tac Toe! #
 
 # Milestone Project 1. Create a Tic Tac Toe Game.
 # What the code must be able to do:
