@@ -83,11 +83,11 @@ def print_board():
 
 # Determine if game won
 def game_won():
-    player1_win = False
-    player2_win = False
-
     global player1_win
     global player2_win
+    
+    player1_win = False
+    player2_win = False
 
     def playagain():
         global board
